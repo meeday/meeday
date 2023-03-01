@@ -19,4 +19,4 @@ My name is Meedaxa Ahmed, I'm software engineer currently working a Multiverse.
 
 ## &#x1f4c8; GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylson14&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meeday&show_icons=true&theme=tokyonight)
