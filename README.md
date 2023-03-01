@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Meedaxa Ahmed, I'm a software engineer currently working at Multiverse. I'm also part-time coding instructor
+My name is Meedaxa Ahmed, I'm a software engineer currently working at Multiverse. I'm also a part-time coding instructor
 ## 🤹 Skills
 
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
